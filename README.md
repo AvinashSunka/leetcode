@@ -5,8 +5,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AvinashSunka/leetcode/tree/master/0162-find-peak-element) |
+| [2665-minimum-time-to-repair-cars](https://github.com/AvinashSunka/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AvinashSunka/leetcode/tree/master/0162-find-peak-element) |
+| [2665-minimum-time-to-repair-cars](https://github.com/AvinashSunka/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 <!---LeetCode Topics End-->
