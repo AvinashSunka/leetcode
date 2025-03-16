@@ -2,12 +2,13 @@
     public:
         int romanToInt(string s) {
             int n = s.length(), num = 0;
+            char i, prev;
             for(int j = 0; j<n; j++)
             {
-                char i = s[j];
+                i = s[j];
                 if(j > 0)
                 {
-                    char prev = s[j - 1];
+                    prev = s[j - 1];
                     if((i == 'D' || i == 'M') && prev == 'C')
                     {
                         num -= 200;
@@ -45,7 +46,6 @@
                             break;         
                     }
                 }
-                cout << num << endl;
             return num;
         }
     };
