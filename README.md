@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AvinashSunka/leetcode/tree/master/0162-find-peak-element) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AvinashSunka/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AvinashSunka/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Binary Search
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AvinashSunka/leetcode/tree/master/0013-roman-to-integer) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AvinashSunka/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
 |  |
 | ------- |
@@ -28,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AvinashSunka/leetcode/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/AvinashSunka/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+## Counting
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/AvinashSunka/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
