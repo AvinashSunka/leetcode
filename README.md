@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AvinashSunka/leetcode/tree/master/0013-roman-to-integer) |
+| [0067-add-binary](https://github.com/AvinashSunka/leetcode/tree/master/0067-add-binary) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AvinashSunka/leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvinashSunka/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AvinashSunka/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/AvinashSunka/leetcode/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/AvinashSunka/leetcode/tree/master/0067-add-binary) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AvinashSunka/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AvinashSunka/leetcode/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AvinashSunka/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -65,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AvinashSunka/leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/AvinashSunka/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
