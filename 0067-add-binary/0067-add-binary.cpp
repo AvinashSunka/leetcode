@@ -1,7 +1,7 @@
 class Solution {
 public:
-    std::string addBinary(std::string a, std::string b) {
-        std::string result = "";
+    string addBinary(string a, string b) {
+        string result = "";
         int i = a.size() - 1, j = b.size() - 1, carry = 0;
 
         while (i >= 0 || j >= 0 || carry) {
@@ -13,7 +13,7 @@ public:
             carry = sum / 2; 
         }
 
-        std::reverse(result.begin(), result.end());
+        reverse(result.begin(), result.end());
         return result;
     }
 };
