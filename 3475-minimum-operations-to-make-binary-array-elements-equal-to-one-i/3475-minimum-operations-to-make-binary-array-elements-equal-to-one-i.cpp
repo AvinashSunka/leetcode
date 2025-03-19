@@ -7,10 +7,9 @@ public:
             if(nums[left] == 0)
             {
                 count ++;
-                for(i = left; i<=right; i++)
-                {
-                    nums[i] = 1 - nums[i];
-                }
+                nums[left] ^= 1;
+                nums[left+1] ^= 1;
+                nums[left+2] ^= 1;
             }
             left ++;
             right++;
