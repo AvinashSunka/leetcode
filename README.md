@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/AvinashSunka/leetcode/tree/master/0162-find-peak-element) |
+| [0228-summary-ranges](https://github.com/AvinashSunka/leetcode/tree/master/0228-summary-ranges) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AvinashSunka/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AvinashSunka/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AvinashSunka/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
