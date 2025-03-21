@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/AvinashSunka/leetcode/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/AvinashSunka/leetcode/tree/master/0228-summary-ranges) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AvinashSunka/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AvinashSunka/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AvinashSunka/leetcode/tree/master/2478-longest-nice-subarray) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AvinashSunka/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AvinashSunka/leetcode/tree/master/0013-roman-to-integer) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AvinashSunka/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AvinashSunka/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 ## Math
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AvinashSunka/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/AvinashSunka/leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/AvinashSunka/leetcode/tree/master/0067-add-binary) |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AvinashSunka/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Trie
 |  |
 | ------- |
@@ -82,5 +85,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AvinashSunka/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/AvinashSunka/leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AvinashSunka/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 <!---LeetCode Topics End-->
