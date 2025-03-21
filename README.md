@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AvinashSunka/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/AvinashSunka/leetcode/tree/master/0162-find-peak-element) |
 | [0228-summary-ranges](https://github.com/AvinashSunka/leetcode/tree/master/0228-summary-ranges) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/AvinashSunka/leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/AvinashSunka/leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/AvinashSunka/leetcode/tree/master/0162-find-peak-element) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AvinashSunka/leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 ## Hash Table
